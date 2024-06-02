@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: Credit-Card-Default-Prediction
+Version: 0.0.1
+Author: Himanshu Banodha
+Author-email: himanshubanodha019@gmail.com
+Requires-Dist: numpy
+Requires-Dist: pandas
